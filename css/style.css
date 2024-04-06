@@ -69,8 +69,8 @@ p{
 
 .Members{
     position: absolute;
-    padding-top: 600px;
-    top: 50%;
+
+    top: 500px;
     left: 50%;
     font-size: 2em;
     transform: translate(-50%, -50%);
