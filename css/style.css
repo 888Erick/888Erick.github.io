@@ -69,11 +69,10 @@ p{
 
 .Members{
     position: absolute;
-
     top: 500px;
     left: 50%;
     font-size: 2em;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%);
 }
 
 .info{
